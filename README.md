@@ -1,5 +1,7 @@
 # deeplearning.ai-by-tensorflow2.0
 
+First of all, you should ignore the "master".
+
 Because random seeds are different, I don't know if some of answer is right.
 
 I changed not only "ipynb" file, but also some "py" file.
